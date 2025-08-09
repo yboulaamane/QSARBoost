@@ -1,7 +1,7 @@
 # QSARBoost
 <img width="975" height="453" alt="image" src="https://github.com/user-attachments/assets/fa3941d1-4b95-4e8c-a6b4-2e9514d3e583" />
 
-QSARBoost is a Python framework for developing gradient boosting–powered QSAR models for molecular property prediction and virtual screening. This release applies QSARBoost to the repurposing of DrugBank compounds as SIRT2 inhibitors, but it can be adapted for any regression-based QSAR task.
+QSARBoost is a Python framework for developing gradient boosting–powered QSAR models for molecular property prediction and virtual screening. This repository applies QSARBoost to the repurposing of DrugBank compounds as SIRT2 inhibitors, but it can be adapted for any regression-based QSAR task.
 
 ## Libraries used
 **Python 3.x**
